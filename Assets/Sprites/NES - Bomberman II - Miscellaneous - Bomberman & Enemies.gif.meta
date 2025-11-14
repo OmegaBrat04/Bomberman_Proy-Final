@@ -1,0 +1,3809 @@
+fileFormatVersion: 2
+guid: fa4f3fd100e2164429fdc32b37f0797f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5287474123073607408
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_0
+  - first:
+      213: -7321140235350867790
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_1
+  - first:
+      213: -7517880677887107766
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_2
+  - first:
+      213: 2874833758846505758
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_3
+  - first:
+      213: -8391334344729895265
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_4
+  - first:
+      213: 478850943794003663
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_5
+  - first:
+      213: -548052313526466498
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_6
+  - first:
+      213: 4621117395860081991
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_7
+  - first:
+      213: -7420410949567849558
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_8
+  - first:
+      213: -7062214241640094371
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_9
+  - first:
+      213: 1046353679904402208
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_10
+  - first:
+      213: -1396293583008707544
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_11
+  - first:
+      213: -7997174851613731913
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_12
+  - first:
+      213: 7905136984053555190
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_13
+  - first:
+      213: -18335216209950006
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_14
+  - first:
+      213: 1933123466497361709
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_15
+  - first:
+      213: -6177566121304178260
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_16
+  - first:
+      213: -1799828253191686278
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_17
+  - first:
+      213: -9087959215443351490
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_18
+  - first:
+      213: 9118078121809891188
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_19
+  - first:
+      213: -5063596734735237491
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_20
+  - first:
+      213: -258668762234895985
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_21
+  - first:
+      213: 7488984456340564803
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_22
+  - first:
+      213: -7453932810200393138
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_23
+  - first:
+      213: 1010682476701537620
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_24
+  - first:
+      213: -706399001083657584
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_25
+  - first:
+      213: 7243013686031729689
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_26
+  - first:
+      213: -1071443012927260166
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_27
+  - first:
+      213: 2019394051139525195
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_28
+  - first:
+      213: -6880302322663910706
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_29
+  - first:
+      213: 5766411795682012223
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_30
+  - first:
+      213: -2264036885618246676
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_31
+  - first:
+      213: 3050353797922512653
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_32
+  - first:
+      213: -4749047985714473190
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_33
+  - first:
+      213: -7903165214032472749
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_34
+  - first:
+      213: 8648975993908492230
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_35
+  - first:
+      213: 9005610915010362468
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_36
+  - first:
+      213: 5561701997989316236
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_37
+  - first:
+      213: 7168160001850721887
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_38
+  - first:
+      213: 6152990657036968177
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_39
+  - first:
+      213: -6397120993978045216
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_40
+  - first:
+      213: 7006461040103364326
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_41
+  - first:
+      213: -8029655183780530708
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_42
+  - first:
+      213: -3244629499473355132
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_43
+  - first:
+      213: -1170398874297771405
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_44
+  - first:
+      213: 4213360404278821080
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_45
+  - first:
+      213: 913280038096889616
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_46
+  - first:
+      213: -1227682489822357020
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_47
+  - first:
+      213: -5487956899279000690
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_48
+  - first:
+      213: 3893647365196068425
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_49
+  - first:
+      213: -2113991850507655589
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_50
+  - first:
+      213: 9198034594887335533
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_51
+  - first:
+      213: 7234824479830362383
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_52
+  - first:
+      213: 7502103142008268
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_53
+  - first:
+      213: -1737950824726624732
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_54
+  - first:
+      213: -1676106005254516565
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_55
+  - first:
+      213: 6663880747094208553
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_56
+  - first:
+      213: -8081104574267658399
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_57
+  - first:
+      213: -3225396057971572716
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_58
+  - first:
+      213: -8832008711639844152
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_59
+  - first:
+      213: -692861815766788022
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_60
+  - first:
+      213: 7941890761575187863
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_61
+  - first:
+      213: -8508181487796913536
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_62
+  - first:
+      213: 2647277902861367730
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_63
+  - first:
+      213: 1992716976228896474
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_64
+  - first:
+      213: -4038032218057592991
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_65
+  - first:
+      213: -7303166413994408568
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_66
+  - first:
+      213: -2739579434194628334
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_67
+  - first:
+      213: -7716510449455755763
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_68
+  - first:
+      213: -8700767462118690515
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_69
+  - first:
+      213: 4562720734009424260
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_70
+  - first:
+      213: -4758894098084248404
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_71
+  - first:
+      213: -4935180237648371107
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_72
+  - first:
+      213: 5926895053706664272
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_73
+  - first:
+      213: -5036152687258119512
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_74
+  - first:
+      213: -8019564790828029537
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_75
+  - first:
+      213: -1173285702383296042
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_76
+  - first:
+      213: -4925366042710396080
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_77
+  - first:
+      213: 5026502195627285634
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_78
+  - first:
+      213: 7855982064741699382
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_79
+  - first:
+      213: 6353124684406290256
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_80
+  - first:
+      213: -8377173857054545359
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_81
+  - first:
+      213: -2185140853959404778
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_82
+  - first:
+      213: 8966336797342724488
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_83
+  - first:
+      213: -2241809027239626794
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_84
+  - first:
+      213: -76991779914513181
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_85
+  - first:
+      213: -6518932413285523514
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_86
+  - first:
+      213: 6450041885182280388
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_87
+  - first:
+      213: 6095015709777459326
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_88
+  - first:
+      213: -6915071738479375152
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_89
+  - first:
+      213: -4412374882345841081
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_90
+  - first:
+      213: -1686990206347190774
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_91
+  - first:
+      213: 4080390150324803166
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_92
+  - first:
+      213: -1903126326424762150
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_93
+  - first:
+      213: -2697500841712648176
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_94
+  - first:
+      213: 4976611766894847138
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_95
+  - first:
+      213: 197146381164132615
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_96
+  - first:
+      213: 3373883393997793252
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_97
+  - first:
+      213: -3470036336754218710
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_98
+  - first:
+      213: -1833486433846447726
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_99
+  - first:
+      213: 5922074201692863234
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_100
+  - first:
+      213: -3178221273369870624
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_101
+  - first:
+      213: -4892959114445472014
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_102
+  - first:
+      213: -1530170394151861953
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_103
+  - first:
+      213: -4995179204194969348
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_104
+  - first:
+      213: 6846783437435290076
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_105
+  - first:
+      213: 5289088124601288046
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_106
+  - first:
+      213: -692836009222097047
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_107
+  - first:
+      213: 6720500955334436733
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_108
+  - first:
+      213: 4295868513984102245
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_109
+  - first:
+      213: -4256904657189555631
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_110
+  - first:
+      213: -5507341525926317966
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_111
+  - first:
+      213: -6229259420250944523
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_112
+  - first:
+      213: -6306586474884611266
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_113
+  - first:
+      213: 7438831666027808342
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_114
+  - first:
+      213: -4251767320501664317
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_115
+  - first:
+      213: -8783440869573868093
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_116
+  - first:
+      213: 8328032821054302835
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_117
+  - first:
+      213: -1013476594420962048
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_118
+  - first:
+      213: 1641827215037000218
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_119
+  - first:
+      213: -7671169180330858962
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_120
+  - first:
+      213: -8095037008162224234
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_121
+  - first:
+      213: 7527844534052329299
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_122
+  - first:
+      213: -3129456152095491118
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_123
+  - first:
+      213: -1744509204313179645
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_124
+  - first:
+      213: -842470446099751460
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_125
+  - first:
+      213: 4133612971508385921
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_126
+  - first:
+      213: 3880513338933587284
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_127
+  - first:
+      213: -5128100397442910035
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_128
+  - first:
+      213: -8412984188044198433
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_129
+  - first:
+      213: -4204757457920384445
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_130
+  - first:
+      213: -5696206110286860892
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_131
+  - first:
+      213: 4814269167194897828
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_132
+  - first:
+      213: -1010537639653502620
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_133
+  - first:
+      213: 858758571660220214
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_134
+  - first:
+      213: 5105093815708768197
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_135
+  - first:
+      213: 3417659532013725423
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_136
+  - first:
+      213: -3989780898176884047
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_137
+  - first:
+      213: -4754992791698774124
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_138
+  - first:
+      213: -1590301904879927366
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_139
+  - first:
+      213: 4602968429171572694
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_140
+  - first:
+      213: -6115706663357061389
+    second: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_141
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 264
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f65fd063b1e06940800000000000000
+      internalID: 5287474123073607408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 264
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b08719beb5166a90800000000000000
+      internalID: -7321140235350867790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 264
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d14cada5f1ba790800000000000000
+      internalID: -7517880677887107766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 264
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13d858721675e720800000000000000
+      internalID: 2874833758846505758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 263
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ed6d66fddfb8b80800000000000000
+      internalID: -8391334344729895265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 263
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fceb335756835a600800000000000000
+      internalID: 478850943794003663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 263
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e388ce5135de468f0800000000000000
+      internalID: -548052313526466498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d4e9da9c1812040800000000000000
+      internalID: 4621117395860081991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 264
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabd69f6e87650990800000000000000
+      internalID: -7420410949567849558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 237
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55665f7099fdfd90800000000000000
+      internalID: -7062214241640094371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 239
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bef18c025658e00800000000000000
+      internalID: 1046353679904402208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 238
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ccb96526e5f9ce0800000000000000
+      internalID: -1396293583008707544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 238
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b350e2e7d3540190800000000000000
+      internalID: -7997174851613731913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 238
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff905b2430b4bd60800000000000000
+      internalID: 7905136984053555190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 237
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca0deec73cdebff0800000000000000
+      internalID: -18335216209950006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 241
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d270c87fc85d3da10800000000000000
+      internalID: 1933123466497361709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 252
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca14d23c750e44aa0800000000000000
+      internalID: -6177566121304178260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 252
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a773cc75db9b507e0800000000000000
+      internalID: -1799828253191686278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 241
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38e24e5e3511e180800000000000000
+      internalID: -9087959215443351490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 236
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f4dbcfdbbe98e70800000000000000
+      internalID: 9118078121809891188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 238
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e374c099d7ab9b0800000000000000
+      internalID: -5063596734735237491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 213
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81cf789126096cf0800000000000000
+      internalID: -258668762234895985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 213
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34be9984fa73ee760800000000000000
+      internalID: 7488984456340564803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 213
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a506c0a9f4e8890800000000000000
+      internalID: -7453932810200393138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 213
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455d1849b5aa60e00800000000000000
+      internalID: 1010682476701537620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 213
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092c7b6e9dd5236f0800000000000000
+      internalID: -706399001083657584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 213
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914c633829a548460800000000000000
+      internalID: 7243013686031729689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 213
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af97569a1487121f0800000000000000
+      internalID: -1071443012927260166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 213
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a55b7b034560c10800000000000000
+      internalID: 2019394051139525195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 191
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2925ead714480a0800000000000000
+      internalID: -6880302322663910706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 192
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3caf36f9f8660050800000000000000
+      internalID: 5766411795682012223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 193
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebb75aa2768490e0800000000000000
+      internalID: -2264036885618246676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f5f642e98055a20800000000000000
+      internalID: 3050353797922512653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17543eb40ef71eb0800000000000000
+      internalID: -4749047985714473190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 191
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355de505c11525290800000000000000
+      internalID: -7903165214032472749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 191
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7fbcb97d5570870800000000000000
+      internalID: 8648975993908492230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cb296d96b5afc70800000000000000
+      internalID: 9005610915010362468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 173
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86cbb000822f2d40800000000000000
+      internalID: 5561701997989316236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 173
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56c97b0b8b6a7360800000000000000
+      internalID: 7168160001850721887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 173
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f06cf21760d36550800000000000000
+      internalID: 6152990657036968177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 173
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecaeb0795cd837a0800000000000000
+      internalID: -6397120993978045216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 155
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e699f3b133fb3160800000000000000
+      internalID: 7006461040103364326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 155
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce533ed372fe09090800000000000000
+      internalID: -8029655183780530708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 173
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e132839a2c8f2d0800000000000000
+      internalID: -3244629499473355132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 155
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ad6f3cc68e1cfe0800000000000000
+      internalID: -1170398874297771405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 173
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d04cbfd6fcd87a30800000000000000
+      internalID: 4213360404278821080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 155
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017683b1b5f9cac00800000000000000
+      internalID: 913280038096889616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 173
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9db21b74566fee0800000000000000
+      internalID: -1227682489822357020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 155
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b22dbc64cd6d3b0800000000000000
+      internalID: -5487956899279000690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 173
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946b52336a3090630800000000000000
+      internalID: 3893647365196068425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 155
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56ab64cc9799a2e0800000000000000
+      internalID: -2113991850507655589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 173
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e73041bbbf5af70800000000000000
+      internalID: 9198034594887335533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 173
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09c69c5882476460800000000000000
+      internalID: 7234824479830362383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc509d08f17aa1000800000000000000
+      internalID: 7502103142008268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 155
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4268217deee81e7e0800000000000000
+      internalID: -1737950824726624732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0d7e6f7764db8e0800000000000000
+      internalID: -1676106005254516565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 155
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9207d149b3cda7c50800000000000000
+      internalID: 6663880747094208553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fedf984362adf80800000000000000
+      internalID: -8081104574267658399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 137
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410c8a8cf571d33d0800000000000000
+      internalID: -3225396057971572716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca3d89eed66e6580800000000000000
+      internalID: -8832008711639844152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 137
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48d9c879d57266f0800000000000000
+      internalID: -692861815766788022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79545a8d193473e60800000000000000
+      internalID: 7941890761575187863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a7f4fd30edce980800000000000000
+      internalID: -8508181487796913536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9facd0a350db420800000000000000
+      internalID: 2647277902861367730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade8302388d87ab10800000000000000
+      internalID: 1992716976228896474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f2813971706f7c0800000000000000
+      internalID: -4038032218057592991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885cc4e17d0f5aa90800000000000000
+      internalID: -7303166413994408568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 119
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2111ddef40f0bf9d0800000000000000
+      internalID: -2739579434194628334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e899a41a279e490800000000000000
+      internalID: -7716510449455755763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 119
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d217323871aa04780800000000000000
+      internalID: -8700767462118690515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489f0ff455a025f30800000000000000
+      internalID: 4562720734009424260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca44cff080305fdb0800000000000000
+      internalID: -4758894098084248404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52e078b8b7b28bb0800000000000000
+      internalID: -4935180237648371107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 119
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059943936af804250800000000000000
+      internalID: 5926895053706664272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2d95940ddfb1ab0800000000000000
+      internalID: -5036152687258119512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99277def48c4b090800000000000000
+      internalID: -8019564790828029537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d12669bed6a7bfe0800000000000000
+      internalID: -1173285702383296042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053b97b0ea595abb0800000000000000
+      internalID: -4925366042710396080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cd5198d19b1c540800000000000000
+      internalID: 5026502195627285634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 83
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fc4caa01e060d60800000000000000
+      internalID: 7855982064741699382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 83
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0577dcb7d35da2850800000000000000
+      internalID: 6353124684406290256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 101
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a239cd2cc4ebb80800000000000000
+      internalID: -8377173857054545359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 83
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6135e8f78f1dca1e0800000000000000
+      internalID: -2185140853959404778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 101
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881702ebfc3de6c70800000000000000
+      internalID: 8966336797342724488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 83
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d73e1d319e73e0e0800000000000000
+      internalID: -2241809027239626794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 83
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4029352687eeef0800000000000000
+      internalID: -76991779914513181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf165742891885a0800000000000000
+      internalID: -6518932413285523514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c24ea8bbe6238950800000000000000
+      internalID: 6450041885182280388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78f5b9ce78d59450800000000000000
+      internalID: 6095015709777459326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc089734eab800a0800000000000000
+      internalID: -6915071738479375152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 65
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e8be91c6814c2c0800000000000000
+      internalID: -4412374882345841081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 65
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0edc1b685b9698e0800000000000000
+      internalID: -1686990206347190774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 65
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56dc1f093570a830800000000000000
+      internalID: 4080390150324803166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 65
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad802c670bcb695e0800000000000000
+      internalID: -1903126326424762150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0108664c64d809ad0800000000000000
+      internalID: -2697500841712648176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 65
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4ebc6e80a701540800000000000000
+      internalID: 4976611766894847138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709ba02d6976cb200800000000000000
+      internalID: 197146381164132615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 65
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7e3dc321172de20800000000000000
+      internalID: 3373883393997793252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2921163654f7dfc0800000000000000
+      internalID: -3470036336754218710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291b51a7dc52e86e0800000000000000
+      internalID: -1833486433846447726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b78652c1f6f2250800000000000000
+      internalID: 5922074201692863234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 65
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eef23f3790b4e3d0800000000000000
+      internalID: -3178221273369870624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 47
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2feb7f20c97b81cb0800000000000000
+      internalID: -4892959114445472014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3142ca322eb3cae0800000000000000
+      internalID: -1530170394151861953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 29
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf85a88bafe8daab0800000000000000
+      internalID: -4995179204194969348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 47
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1cb52b249a40f50800000000000000
+      internalID: 6846783437435290076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 29
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65c89460ad966940800000000000000
+      internalID: 5289088124601288046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 47
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967b7b6025d8266f0800000000000000
+      internalID: -692836009222097047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 29
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77e16b1304044d50800000000000000
+      internalID: 6720500955334436733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 47
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fbec927adfd9b30800000000000000
+      internalID: 4295868513984102245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 29
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152b281b4cf6ce4c0800000000000000
+      internalID: -4256904657189555631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 29
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2707762bf0ef193b0800000000000000
+      internalID: -5507341525926317966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 29
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbcf22bf893d89a0800000000000000
+      internalID: -6229259420250944523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 14
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33483bc3018a78a0800000000000000
+      internalID: -6306586474884611266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 29
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656c385dcf90c3760800000000000000
+      internalID: 7438831666027808342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 47
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c542e91620bef4c0800000000000000
+      internalID: -4251767320501664317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 29
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5c667d013fa1680800000000000000
+      internalID: -8783440869573868093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 29
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a6cb81abd139370800000000000000
+      internalID: 8328032821054302835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dad5138686fe1f0800000000000000
+      internalID: -1013476594420962048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a69de3721f8c610800000000000000
+      internalID: 1641827215037000218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 14
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26647a26488a8590800000000000000
+      internalID: -7671169180330858962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 20
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69789dcfab6a8af80800000000000000
+      internalID: -8095037008162224234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 15
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3571e8038b6487860800000000000000
+      internalID: 7527844534052329299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbff22d530f194d0800000000000000
+      internalID: -3129456152095491118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a73891f124ac7e0800000000000000
+      internalID: -1744509204313179645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd9576c791fe44f0800000000000000
+      internalID: -842470446099751460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18844b5c81b8d5930800000000000000
+      internalID: 4133612971508385921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d2d49625a5ad530800000000000000
+      internalID: 3880513338933587284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da830edbbd355d8b0800000000000000
+      internalID: -5128100397442910035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddb5a274731f3b80800000000000000
+      internalID: -8412984188044198433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3422bf9ae53b5a5c0800000000000000
+      internalID: -4204757457920384445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad21f4f8b203f0b0800000000000000
+      internalID: -5696206110286860892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad74cbec48bfc240800000000000000
+      internalID: 4814269167194897828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4619a4cee59d9f1f0800000000000000
+      internalID: -1010537639653502620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63711abfe5ceaeb00800000000000000
+      internalID: 858758571660220214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c75d5607cfe8d640800000000000000
+      internalID: 5105093815708768197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6e7e0ac37fd6f20800000000000000
+      internalID: 3417659532013725423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b22780796371a8c0800000000000000
+      internalID: -3989780898176884047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497604dbf3fd20eb0800000000000000
+      internalID: -4754992791698774124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf3102e7dc1ee9e0800000000000000
+      internalID: -1590301904879927366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dffb15166701ef30800000000000000
+      internalID: 4602968429171572694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II - Miscellaneous - Bomberman & Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6ec1c2135a02ba0800000000000000
+      internalID: -6115706663357061389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_0: 5287474123073607408
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_1: -7321140235350867790
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_10: 1046353679904402208
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_100: 5922074201692863234
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_101: -3178221273369870624
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_102: -4892959114445472014
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_103: -1530170394151861953
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_104: -4995179204194969348
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_105: 6846783437435290076
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_106: 5289088124601288046
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_107: -692836009222097047
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_108: 6720500955334436733
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_109: 4295868513984102245
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_11: -1396293583008707544
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_110: -4256904657189555631
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_111: -5507341525926317966
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_112: -6229259420250944523
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_113: -6306586474884611266
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_114: 7438831666027808342
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_115: -4251767320501664317
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_116: -8783440869573868093
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_117: 8328032821054302835
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_118: -1013476594420962048
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_119: 1641827215037000218
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_12: -7997174851613731913
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_120: -7671169180330858962
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_121: -8095037008162224234
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_122: 7527844534052329299
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_123: -3129456152095491118
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_124: -1744509204313179645
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_125: -842470446099751460
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_126: 4133612971508385921
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_127: 3880513338933587284
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_128: -5128100397442910035
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_129: -8412984188044198433
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_13: 7905136984053555190
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_130: -4204757457920384445
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_131: -5696206110286860892
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_132: 4814269167194897828
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_133: -1010537639653502620
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_134: 858758571660220214
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_135: 5105093815708768197
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_136: 3417659532013725423
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_137: -3989780898176884047
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_138: -4754992791698774124
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_139: -1590301904879927366
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_14: -18335216209950006
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_140: 4602968429171572694
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_141: -6115706663357061389
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_15: 1933123466497361709
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_16: -6177566121304178260
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_17: -1799828253191686278
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_18: -9087959215443351490
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_19: 9118078121809891188
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_2: -7517880677887107766
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_20: -5063596734735237491
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_21: -258668762234895985
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_22: 7488984456340564803
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_23: -7453932810200393138
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_24: 1010682476701537620
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_25: -706399001083657584
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_26: 7243013686031729689
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_27: -1071443012927260166
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_28: 2019394051139525195
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_29: -6880302322663910706
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_3: 2874833758846505758
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_30: 5766411795682012223
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_31: -2264036885618246676
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_32: 3050353797922512653
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_33: -4749047985714473190
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_34: -7903165214032472749
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_35: 8648975993908492230
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_36: 9005610915010362468
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_37: 5561701997989316236
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_38: 7168160001850721887
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_39: 6152990657036968177
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_4: -8391334344729895265
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_40: -6397120993978045216
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_41: 7006461040103364326
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_42: -8029655183780530708
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_43: -3244629499473355132
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_44: -1170398874297771405
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_45: 4213360404278821080
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_46: 913280038096889616
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_47: -1227682489822357020
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_48: -5487956899279000690
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_49: 3893647365196068425
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_5: 478850943794003663
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_50: -2113991850507655589
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_51: 9198034594887335533
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_52: 7234824479830362383
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_53: 7502103142008268
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_54: -1737950824726624732
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_55: -1676106005254516565
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_56: 6663880747094208553
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_57: -8081104574267658399
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_58: -3225396057971572716
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_59: -8832008711639844152
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_6: -548052313526466498
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_60: -692861815766788022
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_61: 7941890761575187863
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_62: -8508181487796913536
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_63: 2647277902861367730
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_64: 1992716976228896474
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_65: -4038032218057592991
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_66: -7303166413994408568
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_67: -2739579434194628334
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_68: -7716510449455755763
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_69: -8700767462118690515
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_7: 4621117395860081991
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_70: 4562720734009424260
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_71: -4758894098084248404
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_72: -4935180237648371107
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_73: 5926895053706664272
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_74: -5036152687258119512
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_75: -8019564790828029537
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_76: -1173285702383296042
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_77: -4925366042710396080
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_78: 5026502195627285634
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_79: 7855982064741699382
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_8: -7420410949567849558
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_80: 6353124684406290256
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_81: -8377173857054545359
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_82: -2185140853959404778
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_83: 8966336797342724488
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_84: -2241809027239626794
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_85: -76991779914513181
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_86: -6518932413285523514
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_87: 6450041885182280388
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_88: 6095015709777459326
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_89: -6915071738479375152
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_9: -7062214241640094371
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_90: -4412374882345841081
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_91: -1686990206347190774
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_92: 4080390150324803166
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_93: -1903126326424762150
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_94: -2697500841712648176
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_95: 4976611766894847138
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_96: 197146381164132615
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_97: 3373883393997793252
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_98: -3470036336754218710
+      NES - Bomberman II - Miscellaneous - Bomberman & Enemies_99: -1833486433846447726
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
