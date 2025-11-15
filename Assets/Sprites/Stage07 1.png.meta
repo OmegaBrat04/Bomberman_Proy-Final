@@ -1,0 +1,2600 @@
+fileFormatVersion: 2
+guid: f2d0b4cf3b3f5f743aa47d23ed342262
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8261759478671169367
+    second: Stage07 1_0
+  - first:
+      213: -8479334860337072043
+    second: Stage07 1_1
+  - first:
+      213: -7964006167198711368
+    second: Stage07 1_2
+  - first:
+      213: 809200829016520325
+    second: Stage07 1_3
+  - first:
+      213: 5348619434618880830
+    second: Stage07 1_4
+  - first:
+      213: -1689958622350619636
+    second: Stage07 1_5
+  - first:
+      213: -6590760785387405443
+    second: Stage07 1_6
+  - first:
+      213: 5415375971688068661
+    second: Stage07 1_7
+  - first:
+      213: 6141338052911365212
+    second: Stage07 1_8
+  - first:
+      213: -7453364864440681548
+    second: Stage07 1_9
+  - first:
+      213: 4988064910057213895
+    second: Stage07 1_10
+  - first:
+      213: 7532784149694668804
+    second: Stage07 1_11
+  - first:
+      213: 3190263893224986080
+    second: Stage07 1_12
+  - first:
+      213: 5609554889067461498
+    second: Stage07 1_13
+  - first:
+      213: 4226830506038580406
+    second: Stage07 1_14
+  - first:
+      213: -2448809630096686176
+    second: Stage07 1_15
+  - first:
+      213: -5736964840415914175
+    second: Stage07 1_16
+  - first:
+      213: 3237044157267581616
+    second: Stage07 1_17
+  - first:
+      213: -6333683212760291389
+    second: Stage07 1_18
+  - first:
+      213: 3191009323399320063
+    second: Stage07 1_19
+  - first:
+      213: 4652305082656858484
+    second: Stage07 1_20
+  - first:
+      213: 1351427432623816821
+    second: Stage07 1_21
+  - first:
+      213: 272500600271155151
+    second: Stage07 1_22
+  - first:
+      213: 7119234588147584729
+    second: Stage07 1_23
+  - first:
+      213: 55625211545037183
+    second: Stage07 1_24
+  - first:
+      213: -4546450086718606678
+    second: Stage07 1_25
+  - first:
+      213: 1232552336364438428
+    second: Stage07 1_26
+  - first:
+      213: 8606767555094463489
+    second: Stage07 1_27
+  - first:
+      213: 8713818609069611270
+    second: Stage07 1_28
+  - first:
+      213: 3531187784244785168
+    second: Stage07 1_29
+  - first:
+      213: -2348924152422101197
+    second: Stage07 1_30
+  - first:
+      213: 1366794765614045631
+    second: Stage07 1_31
+  - first:
+      213: -5134727134749870326
+    second: Stage07 1_32
+  - first:
+      213: 2273206336639110239
+    second: Stage07 1_33
+  - first:
+      213: -5467659104974252035
+    second: Stage07 1_34
+  - first:
+      213: -6363957773266125877
+    second: Stage07 1_35
+  - first:
+      213: -2969987912084464207
+    second: Stage07 1_36
+  - first:
+      213: -2781643071378154868
+    second: Stage07 1_37
+  - first:
+      213: 3511505881563885871
+    second: Stage07 1_38
+  - first:
+      213: -842417584775578750
+    second: Stage07 1_39
+  - first:
+      213: 3865248732629131733
+    second: Stage07 1_40
+  - first:
+      213: -6449185106095178051
+    second: Stage07 1_41
+  - first:
+      213: -570172476874732055
+    second: Stage07 1_42
+  - first:
+      213: -6850722936645223968
+    second: Stage07 1_43
+  - first:
+      213: -6055846146848172233
+    second: Stage07 1_44
+  - first:
+      213: 6041660192523224196
+    second: Stage07 1_45
+  - first:
+      213: 3406200025487211697
+    second: Stage07 1_46
+  - first:
+      213: 3866097459925621938
+    second: Stage07 1_47
+  - first:
+      213: 5417424191287663282
+    second: Stage07 1_48
+  - first:
+      213: -1160965532681662508
+    second: Stage07 1_49
+  - first:
+      213: 5025531056254799160
+    second: Stage07 1_50
+  - first:
+      213: 2204583157826171174
+    second: Stage07 1_51
+  - first:
+      213: 6688417239464674224
+    second: Stage07 1_52
+  - first:
+      213: -2657877035657947868
+    second: Stage07 1_53
+  - first:
+      213: -3491175130618222573
+    second: Stage07 1_54
+  - first:
+      213: 3095143168494951868
+    second: Stage07 1_55
+  - first:
+      213: 2119966458104039359
+    second: Stage07 1_56
+  - first:
+      213: 8971958410900706996
+    second: Stage07 1_57
+  - first:
+      213: 1932326233387321854
+    second: Stage07 1_58
+  - first:
+      213: -6655122939461349430
+    second: Stage07 1_59
+  - first:
+      213: 4653635426322873456
+    second: Stage07 1_60
+  - first:
+      213: -5675067596064213483
+    second: Stage07 1_61
+  - first:
+      213: 6597324094810708909
+    second: Stage07 1_62
+  - first:
+      213: -1536696948216711147
+    second: Stage07 1_63
+  - first:
+      213: 5687449260397167528
+    second: Stage07 1_64
+  - first:
+      213: -8534361322515729657
+    second: Stage07 1_65
+  - first:
+      213: 3463789975964116385
+    second: Stage07 1_66
+  - first:
+      213: -2302884503006868147
+    second: Stage07 1_67
+  - first:
+      213: 1932560631601923811
+    second: Stage07 1_68
+  - first:
+      213: 9210752951092831008
+    second: Stage07 1_69
+  - first:
+      213: -7482231367804849103
+    second: Stage07 1_70
+  - first:
+      213: 1034319439445402709
+    second: Stage07 1_71
+  - first:
+      213: 7221365904804358416
+    second: Stage07 1_72
+  - first:
+      213: 2720546959228146338
+    second: Stage07 1_73
+  - first:
+      213: -6489580190533168527
+    second: Stage07 1_74
+  - first:
+      213: 6974383060552485737
+    second: Stage07 1_75
+  - first:
+      213: 4475022328993048703
+    second: Stage07 1_76
+  - first:
+      213: 8991510803794359865
+    second: Stage07 1_77
+  - first:
+      213: 3991055203743046284
+    second: Stage07 1_78
+  - first:
+      213: -8566929527234209786
+    second: Stage07 1_79
+  - first:
+      213: 3784401158761150308
+    second: Stage07 1_80
+  - first:
+      213: -723909075863920397
+    second: Stage07 1_81
+  - first:
+      213: -3159903903646716911
+    second: Stage07 1_82
+  - first:
+      213: -6925655945523084957
+    second: Stage07 1_83
+  - first:
+      213: -9111493058318234227
+    second: Stage07 1_84
+  - first:
+      213: 7454918379876391911
+    second: Stage07 1_85
+  - first:
+      213: 7843258115276643643
+    second: Stage07 1_86
+  - first:
+      213: -6435023342535810162
+    second: Stage07 1_87
+  - first:
+      213: 1866875867128614944
+    second: Stage07 1_88
+  - first:
+      213: 4302255059762038389
+    second: Stage07 1_89
+  - first:
+      213: -6829450870165010099
+    second: Stage07 1_90
+  - first:
+      213: -2338557460053762136
+    second: Stage07 1_91
+  - first:
+      213: 1265108764273695365
+    second: Stage07 1_92
+  - first:
+      213: 5552803664130993884
+    second: Stage07 1_93
+  - first:
+      213: 3244729529475291595
+    second: Stage07 1_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stage07 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8a61ed685585d80800000000000000
+      internalID: -8261759478671169367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558b506bed9535a80800000000000000
+      internalID: -8479334860337072043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 220
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1c917069a2a7190800000000000000
+      internalID: -7964006167198711368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 203
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5863b7ddddbda3b00800000000000000
+      internalID: 809200829016520325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 220
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33853f990d1a3a40800000000000000
+      internalID: 5348619434618880830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 203
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ccea5369f0c88e0800000000000000
+      internalID: -1689958622350619636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 220
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fb86b2cf9e884a0800000000000000
+      internalID: -6590760785387405443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 220
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53637ad11c7472b40800000000000000
+      internalID: 5415375971688068661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 203
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cfe51cb6a6a3550800000000000000
+      internalID: 6141338052911365212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 220
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbb2a93524509890800000000000000
+      internalID: -7453364864440681548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 203
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf0d889b9a293540800000000000000
+      internalID: 4988064910057213895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 203
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4006e341643d98860800000000000000
+      internalID: 7532784149694668804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 203
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e51e6fab18164c20800000000000000
+      internalID: 3190263893224986080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bfbee637429dd40800000000000000
+      internalID: 5609554889067461498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4d63653f7b8aa30800000000000000
+      internalID: 4226830506038580406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 169
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a30883ad94140ed0800000000000000
+      internalID: -2448809630096686176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1479a169fd43260b0800000000000000
+      internalID: -5736964840415914175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 169
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba103ca28a4cec20800000000000000
+      internalID: 3237044157267581616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7619fdcac3a18a0800000000000000
+      internalID: -6333683212760291389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 169
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff11d2ca21eb84c20800000000000000
+      internalID: 3191009323399320063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471a18ed2de409040800000000000000
+      internalID: 4652305082656858484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570c24df61c31c210800000000000000
+      internalID: 1351427432623816821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf2e382add18c300800000000000000
+      internalID: 272500600271155151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de063b732a9cc260800000000000000
+      internalID: 7119234588147584729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79a2bec5de95c000800000000000000
+      internalID: 55625211545037183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2f718fbb3c7e0c0800000000000000
+      internalID: -4546450086718606678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_26
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c938410d1d7ea1110800000000000000
+      internalID: 1232552336364438428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10443c1ad71617770800000000000000
+      internalID: 8606767555094463489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60958ce6bd3bde870800000000000000
+      internalID: 8713818609069611270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_29
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010fb1ba49c410130800000000000000
+      internalID: 3531187784244785168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f8b82bde1f66fd0800000000000000
+      internalID: -2348924152422101197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9d9450994d7f210800000000000000
+      internalID: 1366794765614045631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07bcaa30e8cdb8b0800000000000000
+      internalID: -5134727134749870326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 118
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c8a848e1d0c8f10800000000000000
+      internalID: 2273206336639110239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_34
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7541f4309fe14b0800000000000000
+      internalID: -5467659104974252035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 118
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbf2e67f1eaea7a0800000000000000
+      internalID: -6363957773266125877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd5009cabb78c6d0800000000000000
+      internalID: -2969987912084464207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 118
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a14964d5e9569d0800000000000000
+      internalID: -2781643071378154868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_38
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f217f499eff5bb030800000000000000
+      internalID: 3511505881563885871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 118
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bb8e28ba12f44f0800000000000000
+      internalID: -842417584775578750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_40
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d163ec4e3f14a530800000000000000
+      internalID: 3865248732629131733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 118
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbef474b054ef76a0800000000000000
+      internalID: -6449185106095178051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_42
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed4d2737275618f0800000000000000
+      internalID: -570172476874732055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_43
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 118
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9f3aa29c75de0a0800000000000000
+      internalID: -6850722936645223968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73752b2c30055fba0800000000000000
+      internalID: -6055846146848172233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_45
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 118
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48407fc5fe948d350800000000000000
+      internalID: 6041660192523224196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_46
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 101
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc771950e0454f20800000000000000
+      internalID: 3406200025487211697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc18e5082327a530800000000000000
+      internalID: 3866097459925621938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba1f47699e8e2b40800000000000000
+      internalID: 5417424191287663282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df8904cffb63efe0800000000000000
+      internalID: -1160965532681662508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_50
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83dc2c78ed54eb540800000000000000
+      internalID: 5025531056254799160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621b900a3b0489e10800000000000000
+      internalID: 2204583157826171174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b304e3ea0802dc50800000000000000
+      internalID: 6688417239464674224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_53
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42590f80be25d1bd0800000000000000
+      internalID: -2657877035657947868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_54
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318a2da37badc8fc0800000000000000
+      internalID: -3491175130618222573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_55
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd5e1f105824fa20800000000000000
+      internalID: 3095143168494951868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_56
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7c807f242ab6d10800000000000000
+      internalID: 2119966458104039359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_57
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b69055a3acc28c70800000000000000
+      internalID: 8971958410900706996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_58
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9483ba87001da10800000000000000
+      internalID: 1932326233387321854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_59
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf4ad862f044a3a0800000000000000
+      internalID: -6655122939461349430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cf524a3c8059040800000000000000
+      internalID: 4653635426322873456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_61
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 84
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5163344d61c1e31b0800000000000000
+      internalID: -5675067596064213483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_62
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 67
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab51536f476e8b50800000000000000
+      internalID: 6597324094810708909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518bd12744e8caae0800000000000000
+      internalID: -1536696948216711147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3080c08f0edee40800000000000000
+      internalID: 5687449260397167528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703fd9a189bdf8980800000000000000
+      internalID: -8534361322515729657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_66
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a566e591aad11030800000000000000
+      internalID: 3463789975964116385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d0687eeb28a00e0800000000000000
+      internalID: -2302884503006868147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e68981c7a5d1da10800000000000000
+      internalID: 1932560631601923811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_69
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023e4c3220b23df70800000000000000
+      internalID: 9210752951092831008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_70
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134f4baa636c92890800000000000000
+      internalID: -7482231367804849103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_71
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554ac64dc04aa5e00800000000000000
+      internalID: 1034319439445402709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_72
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0192bfca702773460800000000000000
+      internalID: 7221365904804358416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_73
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2109b9b0351c520800000000000000
+      internalID: 2720546959228146338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_74
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172dbd1333160f5a0800000000000000
+      internalID: -6489580190533168527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_75
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b8bb3117cf9c060800000000000000
+      internalID: 6974383060552485737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_76
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78629939197a1e30800000000000000
+      internalID: 4475022328993048703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_77
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 50
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936ff3edf6348cc70800000000000000
+      internalID: 8991510803794359865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_78
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 33
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a1412ff83136730800000000000000
+      internalID: 3991055203743046284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60856690cf62c1980800000000000000
+      internalID: -8566929527234209786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467f883adc4e48430800000000000000
+      internalID: 3784401158761150308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_81
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0237be78824f5f0800000000000000
+      internalID: -723909075863920397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_82
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c64ca3424c524d0800000000000000
+      internalID: -3159903903646716911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361468a7c9023ef90800000000000000
+      internalID: -6925655945523084957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d018596597d8180800000000000000
+      internalID: -9111493058318234227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_85
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb1016c4c0357760800000000000000
+      internalID: 7454918379876391911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_86
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d93c253b9d8dc60800000000000000
+      internalID: 7843258115276643643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_87
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e836eca3d5432b6a0800000000000000
+      internalID: -6435023342535810162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_88
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02053f3c5b978e910800000000000000
+      internalID: 1866875867128614944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_89
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5764e3abe2ea4bb30800000000000000
+      internalID: 4302255059762038389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_90
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4905d81e9ae831a0800000000000000
+      internalID: -6829450870165010099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_91
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afd7aa5166cb8fd0800000000000000
+      internalID: -2338557460053762136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_92
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a54c0e7b19e8110800000000000000
+      internalID: 1265108764273695365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_93
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 16
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdee30433858f0d40800000000000000
+      internalID: 5552803664130993884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07 1_94
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc95894d058970d20800000000000000
+      internalID: 3244729529475291595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Stage07 1_0: -8261759478671169367
+      Stage07 1_1: -8479334860337072043
+      Stage07 1_10: 4988064910057213895
+      Stage07 1_11: 7532784149694668804
+      Stage07 1_12: 3190263893224986080
+      Stage07 1_13: 5609554889067461498
+      Stage07 1_14: 4226830506038580406
+      Stage07 1_15: -2448809630096686176
+      Stage07 1_16: -5736964840415914175
+      Stage07 1_17: 3237044157267581616
+      Stage07 1_18: -6333683212760291389
+      Stage07 1_19: 3191009323399320063
+      Stage07 1_2: -7964006167198711368
+      Stage07 1_20: 4652305082656858484
+      Stage07 1_21: 1351427432623816821
+      Stage07 1_22: 272500600271155151
+      Stage07 1_23: 7119234588147584729
+      Stage07 1_24: 55625211545037183
+      Stage07 1_25: -4546450086718606678
+      Stage07 1_26: 1232552336364438428
+      Stage07 1_27: 8606767555094463489
+      Stage07 1_28: 8713818609069611270
+      Stage07 1_29: 3531187784244785168
+      Stage07 1_3: 809200829016520325
+      Stage07 1_30: -2348924152422101197
+      Stage07 1_31: 1366794765614045631
+      Stage07 1_32: -5134727134749870326
+      Stage07 1_33: 2273206336639110239
+      Stage07 1_34: -5467659104974252035
+      Stage07 1_35: -6363957773266125877
+      Stage07 1_36: -2969987912084464207
+      Stage07 1_37: -2781643071378154868
+      Stage07 1_38: 3511505881563885871
+      Stage07 1_39: -842417584775578750
+      Stage07 1_4: 5348619434618880830
+      Stage07 1_40: 3865248732629131733
+      Stage07 1_41: -6449185106095178051
+      Stage07 1_42: -570172476874732055
+      Stage07 1_43: -6850722936645223968
+      Stage07 1_44: -6055846146848172233
+      Stage07 1_45: 6041660192523224196
+      Stage07 1_46: 3406200025487211697
+      Stage07 1_47: 3866097459925621938
+      Stage07 1_48: 5417424191287663282
+      Stage07 1_49: -1160965532681662508
+      Stage07 1_5: -1689958622350619636
+      Stage07 1_50: 5025531056254799160
+      Stage07 1_51: 2204583157826171174
+      Stage07 1_52: 6688417239464674224
+      Stage07 1_53: -2657877035657947868
+      Stage07 1_54: -3491175130618222573
+      Stage07 1_55: 3095143168494951868
+      Stage07 1_56: 2119966458104039359
+      Stage07 1_57: 8971958410900706996
+      Stage07 1_58: 1932326233387321854
+      Stage07 1_59: -6655122939461349430
+      Stage07 1_6: -6590760785387405443
+      Stage07 1_60: 4653635426322873456
+      Stage07 1_61: -5675067596064213483
+      Stage07 1_62: 6597324094810708909
+      Stage07 1_63: -1536696948216711147
+      Stage07 1_64: 5687449260397167528
+      Stage07 1_65: -8534361322515729657
+      Stage07 1_66: 3463789975964116385
+      Stage07 1_67: -2302884503006868147
+      Stage07 1_68: 1932560631601923811
+      Stage07 1_69: 9210752951092831008
+      Stage07 1_7: 5415375971688068661
+      Stage07 1_70: -7482231367804849103
+      Stage07 1_71: 1034319439445402709
+      Stage07 1_72: 7221365904804358416
+      Stage07 1_73: 2720546959228146338
+      Stage07 1_74: -6489580190533168527
+      Stage07 1_75: 6974383060552485737
+      Stage07 1_76: 4475022328993048703
+      Stage07 1_77: 8991510803794359865
+      Stage07 1_78: 3991055203743046284
+      Stage07 1_79: -8566929527234209786
+      Stage07 1_8: 6141338052911365212
+      Stage07 1_80: 3784401158761150308
+      Stage07 1_81: -723909075863920397
+      Stage07 1_82: -3159903903646716911
+      Stage07 1_83: -6925655945523084957
+      Stage07 1_84: -9111493058318234227
+      Stage07 1_85: 7454918379876391911
+      Stage07 1_86: 7843258115276643643
+      Stage07 1_87: -6435023342535810162
+      Stage07 1_88: 1866875867128614944
+      Stage07 1_89: 4302255059762038389
+      Stage07 1_9: -7453364864440681548
+      Stage07 1_90: -6829450870165010099
+      Stage07 1_91: -2338557460053762136
+      Stage07 1_92: 1265108764273695365
+      Stage07 1_93: 5552803664130993884
+      Stage07 1_94: 3244729529475291595
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
