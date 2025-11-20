@@ -145,10 +145,16 @@ MonoBehaviour:
   layerMuroIndestructible:
     serializedVersion: 2
     m_Bits: 0
+  layerDestruible:
+    serializedVersion: 2
+    m_Bits: 0
   explosionDuration: 1
   explosionRadius: 1
+  sonidoExplosion: {fileID: 8300000, guid: 5db39100798052346906548b03b9dc1e, type: 3}
   TilesDestruibles: {fileID: 0}
   destruiblesPrefab: {fileID: 6692690483064786950, guid: db885562c1d4a66489abb165503cd003, type: 3}
+  tiempoExplosionMechaCorta: 1
+  duracionPowerUp: 5
 --- !u!1 &955684247903143961
 GameObject:
   m_ObjectHideFlags: 0
