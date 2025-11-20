@@ -46,4 +46,12 @@ public class RenderAnimacion : MonoBehaviour
             spriteRenderer.sprite = frameEstatico;
         }
     }
+
+    public void CambiarColor(Color nuevoColor)
+    {
+        if (spriteRenderer != null)
+        {
+            spriteRenderer.color = nuevoColor;
+        }
+    }
 }

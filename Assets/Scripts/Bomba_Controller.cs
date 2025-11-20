@@ -1,15 +1,14 @@
 using System.Collections;
 using UnityEngine;
-using UnityEngine.UIElements;
 using UnityEngine.Tilemaps;
 
 public class Bomba_Controller : MonoBehaviour
 {
-     [Header("Bomba")]
+    [Header("Bomba")]
     public GameObject bombaPrefab;
     public KeyCode inputKey = KeyCode.Space;
 
-    public float ActivacionBombas = 3f;
+    public float ActivacionBombas = 3f; 
     public int maxBombas = 1;
     private int BombasRestantes;
 
@@ -23,10 +22,23 @@ public class Bomba_Controller : MonoBehaviour
     public Tilemap TilesDestruibles;
     public Destruibles destruiblesPrefab;
 
+    
+    private float tiempoOriginal;
+    private bool mechaCortaActiva = false;
+    public float tiempoExplosionMechaCorta = 1f; 
+    public float duracionPowerUp = 10f;          
+
+    private void Awake()
+    {
+        
+        tiempoOriginal = ActivacionBombas;
+    }
+
     private void OnEnable()
     {
         BombasRestantes = maxBombas;
     }
+
     private void Update()
     {
         if (Input.GetKeyDown(inputKey) && BombasRestantes > 0)
@@ -34,6 +46,7 @@ public class Bomba_Controller : MonoBehaviour
             StartCoroutine(ColocarBomba());
         }
     }
+
     private IEnumerator ColocarBomba()
     {
         Vector2 posicion = transform.position;
@@ -42,6 +55,8 @@ public class Bomba_Controller : MonoBehaviour
 
         GameObject bomba = Instantiate(bombaPrefab, posicion, Quaternion.identity);
         BombasRestantes--;
+
+        
         yield return new WaitForSeconds(ActivacionBombas);
 
         posicion = bomba.transform.position;
@@ -63,10 +78,8 @@ public class Bomba_Controller : MonoBehaviour
 
     private void ExploteBomba(Vector2 posicion, Vector2 direccion, int alcance)
     {
-        if (alcance <= 0)
-        {
-            return;
-        }
+        if (alcance <= 0) return;
+        
         posicion += direccion;
 
         if (Physics2D.OverlapBox(posicion, Vector2.one / 2f, 0f, layerMuroIndestructible))
@@ -93,7 +106,7 @@ public class Bomba_Controller : MonoBehaviour
             TilesDestruibles.SetTile(celda, null);
         }
     }
-    
+
     public void AñadirBomba()
     {
         maxBombas++;
@@ -106,5 +119,29 @@ public class Bomba_Controller : MonoBehaviour
         {
             other.isTrigger = false;
         }
+    }
+
+    
+    public void ActivarMechaCorta()
+    {
+        if (mechaCortaActiva)
+        {
+            
+            CancelInvoke(nameof(DesactivarMechaCorta));
+            Invoke(nameof(DesactivarMechaCorta), duracionPowerUp);
+            return;
+        }
+
+        mechaCortaActiva = true;
+        ActivacionBombas = tiempoExplosionMechaCorta; 
+
+        
+        Invoke(nameof(DesactivarMechaCorta), duracionPowerUp);
+    }
+
+    private void DesactivarMechaCorta()
+    {
+        ActivacionBombas = tiempoOriginal; 
+        mechaCortaActiva = false;
     }
 }

@@ -1,4 +1,3 @@
-using UnityEditor.SearchService;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -9,13 +8,18 @@ public class GameManager : MonoBehaviour
     public void Ganador()
     {
         int jugadoresActivos = 0;
+
         foreach (GameObject jugador in jugadores)
         {
-            if (jugador.activeSelf)
+            if (jugador != null)
             {
-                jugadoresActivos++;
+                if (jugador.activeSelf)
+                {
+                    jugadoresActivos++;
+                }
             }
         }
+
         if (jugadoresActivos <= 1)
         {
             Invoke(nameof(NuevaRonda), 2f);
