@@ -6,8 +6,35 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Bomberman_Nivel1.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/elegir.unity
+    guid: a0cae2d886f39694eaa73880837ef756
+  - enabled: 1
+    path: Assets/Scenes/Crear Players.unity
+    guid: 9ebaf8f573e7db644a6ced4411a389b6
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e4b3642794202f949a071b4015a19028
+  - enabled: 1
+    path: Assets/Scenes/Multi 1.unity
+    guid: bbd5bb7895ce4c447bd62b5d894901c6
+  - enabled: 1
+    path: Assets/Scenes/Multi2.unity
+    guid: 01a35ff1c3b2ead48a0b6b2983ea6fc0
+  - enabled: 1
+    path: Assets/Scenes/Multi3.unity
+    guid: d2f73a0d576714a4aa26399ebdab6651
+  - enabled: 1
+    path: Assets/Scenes/Multi4.unity
+    guid: 4b694b85cd218794ca1c4ac93092d356
+  - enabled: 1
+    path: Assets/Scenes/Multi5.unity
+    guid: 264d8d905e76cae409844fa7a8b6d734
+  - enabled: 1
+    path: Assets/Scenes/Niveles.unity
+    guid: 17ad5de798fae364f9c11b8b74a6f258
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

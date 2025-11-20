@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8715702338230922558}
   - component: {fileID: 7317752308430238517}
   - component: {fileID: 5278219630231512706}
+  - component: {fileID: 1115003814279790074}
   m_Layer: 0
   m_Name: Administrador
   m_TagString: Untagged
@@ -63,3 +64,15 @@ MonoBehaviour:
   - {fileID: 5083144870059485983, guid: 53fdb7c90f934ea4aa851dde1612c2ba, type: 3}
   - {fileID: 3358725250502978529, guid: 76672638b9bc51d408bd02807c6c2c0c, type: 3}
   - {fileID: 1477209001446706465, guid: c5e64822e43b85243aa6557a7a4af8f4, type: 3}
+--- !u!114 &1115003814279790074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 622755872634544834}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 358bf27630024ec4f87ce4b984651874, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SceneLoader

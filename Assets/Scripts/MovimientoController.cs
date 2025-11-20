@@ -73,10 +73,11 @@ public class MovimientoController : MonoBehaviour
             Muerte();
         }
     }
-    private void Muerte()
+   private void Muerte()
     {
         enabled = false;
-        GetComponent<Bomba_Controller>().enabled = false;
+         GetComponent<Bomba_Controller>().enabled = false;
+
         renderAnimacionArriba.enabled = false;
         renderAnimacionAbajo.enabled = false;
         renderAnimacionIzquierda.enabled = false;
@@ -84,13 +85,15 @@ public class MovimientoController : MonoBehaviour
         renderAnimacionMuerte.enabled = true;
 
         Invoke(nameof(DestruirJugador), 1f);
-
     }
 
     private void DestruirJugador()
     {
-        gameObject.SetActive(false);
-        FindAnyObjectByType<GameManager>().Ganador();
+        var gm = GameManager.Instancia != null ? GameManager.Instancia : FindFirstObjectByType<GameManager>();
+        if (gm != null)
+            gm.UnregisterPlayer(gameObject);
+
+        Destroy(gameObject);
     }
     
 

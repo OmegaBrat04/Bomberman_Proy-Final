@@ -16,12 +16,19 @@ public class Bomba_Controller : MonoBehaviour
     [Header("Explosion")]
     public Explosion explosionPrefab;
     public LayerMask layerMuroIndestructible;
+    public LayerMask layerDestruible;
     public float explosionDuration = 1f;
     public int explosionRadius = 1;
 
     [Header("Otros")]
     public Tilemap TilesDestruibles;
     public Destruibles destruiblesPrefab;
+
+    private void Awake()
+    {
+        if (TilesDestruibles == null)
+            TilesDestruibles = FindFirstObjectByType<Tilemap>(); // Asegura referencia
+    }
 
     private void OnEnable()
     {
@@ -71,10 +78,15 @@ public class Bomba_Controller : MonoBehaviour
 
         if (Physics2D.OverlapBox(posicion, Vector2.one / 2f, 0f, layerMuroIndestructible))
         {
-            LimpiarDestruibleEnPosicion(posicion);
-            return;
+            return; // detiene propagación
         }
 
+        // Luego destructible
+        if (Physics2D.OverlapBox(posicion, Vector2.one / 2f, 0f, layerDestruible))
+        {
+            LimpiarDestruibleEnPosicion(posicion);
+            return; // detiene propagación tras destruir
+        }
         Explosion nuevaExplosion = Instantiate(explosionPrefab, posicion, Quaternion.identity);
         nuevaExplosion.IniciarExplosion(alcance > 1 ? nuevaExplosion.medioExplosion : nuevaExplosion.finExplosion);
         nuevaExplosion.Direccion(direccion);
@@ -85,12 +97,20 @@ public class Bomba_Controller : MonoBehaviour
 
     public void LimpiarDestruibleEnPosicion(Vector2 posicion)
     {
+        if (TilesDestruibles == null)
+        {
+            Debug.LogWarning("TilesDestruibles no está asignado.");
+            return;
+        }
         Vector3Int celda = TilesDestruibles.WorldToCell(posicion);
         TileBase tile = TilesDestruibles.GetTile(celda);
         if (tile != null)
         {
             Instantiate(destruiblesPrefab, posicion, Quaternion.identity);
             TilesDestruibles.SetTile(celda, null);
+        }else
+        {
+            Debug.LogWarning("No se encontró un tile destructible en la posición dada: " + posicion);
         }
     }
     

@@ -352,7 +352,7 @@ GameObject:
   - component: {fileID: 892724928}
   - component: {fileID: 892724927}
   - component: {fileID: 892724929}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Destructibles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1193,7 +1193,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5083144870059485983, guid: 53fdb7c90f934ea4aa851dde1612c2ba, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5551370679339234598, guid: 53fdb7c90f934ea4aa851dde1612c2ba, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1239,11 +1239,24 @@ PrefabInstance:
       propertyPath: TilesDestruibles
       value: 
       objectReference: {fileID: 892724928}
+    - target: {fileID: 6778366401270169336, guid: 53fdb7c90f934ea4aa851dde1612c2ba, type: 3}
+      propertyPath: layerDestruible.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 6778366401270169336, guid: 53fdb7c90f934ea4aa851dde1612c2ba, type: 3}
+      propertyPath: layerMuroIndestructible.m_Bits
+      value: 64
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 53fdb7c90f934ea4aa851dde1612c2ba, type: 3}
+--- !u!1 &1093840784 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5083144870059485983, guid: 53fdb7c90f934ea4aa851dde1612c2ba, type: 3}
+  m_PrefabInstance: {fileID: 1093840783}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1371824948
 GameObject:
   m_ObjectHideFlags: 0
@@ -3403,13 +3416,21 @@ PrefabInstance:
       propertyPath: TilesDestruibles
       value: 
       objectReference: {fileID: 892724928}
+    - target: {fileID: 1258489162803192664, guid: c5e64822e43b85243aa6557a7a4af8f4, type: 3}
+      propertyPath: layerDestruible.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 1258489162803192664, guid: c5e64822e43b85243aa6557a7a4af8f4, type: 3}
+      propertyPath: layerMuroIndestructible.m_Bits
+      value: 64
+      objectReference: {fileID: 0}
     - target: {fileID: 1477209001446706465, guid: c5e64822e43b85243aa6557a7a4af8f4, type: 3}
       propertyPath: m_Name
       value: Jugador 4
       objectReference: {fileID: 0}
     - target: {fileID: 1477209001446706465, guid: c5e64822e43b85243aa6557a7a4af8f4, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5116120347830453882, guid: c5e64822e43b85243aa6557a7a4af8f4, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3456,6 +3477,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c5e64822e43b85243aa6557a7a4af8f4, type: 3}
+--- !u!1 &1656295242 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1477209001446706465, guid: c5e64822e43b85243aa6557a7a4af8f4, type: 3}
+  m_PrefabInstance: {fileID: 1656295241}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1925478451
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3476,6 +3502,14 @@ PrefabInstance:
       propertyPath: TilesDestruibles
       value: 
       objectReference: {fileID: 892724928}
+    - target: {fileID: 8780771461564644942, guid: 76672638b9bc51d408bd02807c6c2c0c, type: 3}
+      propertyPath: layerDestruible.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 8780771461564644942, guid: 76672638b9bc51d408bd02807c6c2c0c, type: 3}
+      propertyPath: layerMuroIndestructible.m_Bits
+      value: 64
+      objectReference: {fileID: 0}
     - target: {fileID: 9113907947795837187, guid: 76672638b9bc51d408bd02807c6c2c0c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 6.5
@@ -3521,6 +3555,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 76672638b9bc51d408bd02807c6c2c0c, type: 3}
+--- !u!1 &1925478452 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3358725250502978529, guid: 76672638b9bc51d408bd02807c6c2c0c, type: 3}
+  m_PrefabInstance: {fileID: 1925478451}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2003934933
 GameObject:
   m_ObjectHideFlags: 0
@@ -3579,10 +3618,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Jugador
       objectReference: {fileID: 0}
+    - target: {fileID: 421632735453156368, guid: f80a09e3bff201b4ab4012a857a61551, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2430533088825256940, guid: f80a09e3bff201b4ab4012a857a61551, type: 3}
       propertyPath: TilesDestruibles
       value: 
       objectReference: {fileID: 892724928}
+    - target: {fileID: 2430533088825256940, guid: f80a09e3bff201b4ab4012a857a61551, type: 3}
+      propertyPath: layerDestruible.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430533088825256940, guid: f80a09e3bff201b4ab4012a857a61551, type: 3}
+      propertyPath: layerMuroIndestructible.m_Bits
+      value: 64
+      objectReference: {fileID: 0}
     - target: {fileID: 7187416450154754478, guid: f80a09e3bff201b4ab4012a857a61551, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.5
@@ -3628,6 +3679,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f80a09e3bff201b4ab4012a857a61551, type: 3}
+--- !u!1 &5905234640040408220 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 421632735453156368, guid: f80a09e3bff201b4ab4012a857a61551, type: 3}
+  m_PrefabInstance: {fileID: 5905234640040408219}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &7833966754785850999
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3640,6 +3696,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: Administrador
       objectReference: {fileID: 0}
+    - target: {fileID: 5278219630231512706, guid: 66de277a1c0aade4f9c1fef5e7923871, type: 3}
+      propertyPath: jugadoresEnEscena.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5278219630231512706, guid: 66de277a1c0aade4f9c1fef5e7923871, type: 3}
+      propertyPath: 'jugadoresEnEscena.Array.data[0]'
+      value: 
+      objectReference: {fileID: 5905234640040408220}
+    - target: {fileID: 5278219630231512706, guid: 66de277a1c0aade4f9c1fef5e7923871, type: 3}
+      propertyPath: 'jugadoresEnEscena.Array.data[1]'
+      value: 
+      objectReference: {fileID: 1093840784}
+    - target: {fileID: 5278219630231512706, guid: 66de277a1c0aade4f9c1fef5e7923871, type: 3}
+      propertyPath: 'jugadoresEnEscena.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1925478452}
+    - target: {fileID: 5278219630231512706, guid: 66de277a1c0aade4f9c1fef5e7923871, type: 3}
+      propertyPath: 'jugadoresEnEscena.Array.data[3]'
+      value: 
+      objectReference: {fileID: 1656295242}
     - target: {fileID: 8715702338230922558, guid: 66de277a1c0aade4f9c1fef5e7923871, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
