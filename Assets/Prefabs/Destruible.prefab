@@ -176,13 +176,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Destruibles
   tiempoDestruccion: 1
-  PorcentajeItem: 0.5
+  PorcentajeItem: 0.65
   itemsPrefab:
   - {fileID: 635296872774484191, guid: 096722005452ea5438686d4ebd82d807, type: 3}
   - {fileID: 4586210307268703770, guid: bca29799d36f85d4f80cf2208302b82f, type: 3}
   - {fileID: 189993129466895540, guid: f270e8b3f69c9814a8253f65e8710db2, type: 3}
-  - {fileID: 8044158144316135312, guid: fcd619448499bb14ba6ba86e0bdabe8c, type: 3}
-  - {fileID: 2540260841350130474, guid: 167f4a75b2aa83f4f8f4a79c1046aa33, type: 3}
-  - {fileID: 4691476401191927112, guid: b9a0ba0796c670d4eb0c4f9063051865, type: 3}
-  - {fileID: 83509402545601626, guid: d11ecbf1641cc97409acbe80611c5658, type: 3}
-  - {fileID: 2065509832057397587, guid: 5108e2da6c7046341b1feaeebf919930, type: 3}
+  - {fileID: 2065509832057397587, guid: e3b149c6ff0e8ad42b1cecc6b7de9cae, type: 3}
+  - {fileID: 4691476401191927112, guid: ee3a87abfb1a7ec4b867a2419f9dec1f, type: 3}
+  - {fileID: 83509402545601626, guid: 6d0b0e9182c70044092e833b3cf1d606, type: 3}
+  - {fileID: 8044158144316135312, guid: 6dc17080860e2d444bee029ecde686ca, type: 3}
+  - {fileID: 2540260841350130474, guid: b71305c9fd203b04483a3b09cef1fb8e, type: 3}

@@ -150,4 +150,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 973cab89f739e224f9db27a1f41af552, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Recoger_Items
-  tipoItem: 3
+  tipoItem: 6
